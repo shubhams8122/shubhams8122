@@ -1,5 +1,23 @@
 # 💫 About Me:
-Html,Css,Javascript,SQL,Python,MERN, PowerBi, Numpy, Pandas,Matplotlib, dsa,
+Full Stack Developer | AI Automation & Agentic Workflows | B.Tech Student
+
+I don’t just write code; I build intelligent systems that automate processes and solve real-world problems.
+
+As a Full Stack Developer specializing in the MERN Stack, Python, and AI Automation (n8n, Make.com, AI Agents), I bridge the gap between traditional software development and modern generative AI workflows. From deploying custom Telegram AI bots to developing data-driven dashboards, I thrive on turning complex ideas into functional, production-ready MVPs.
+
+What I Bring to the Table:
+
+Full-Stack Engineering: MERN Stack, Python, SQL, JavaScript, REST APIs, Supabase.
+
+AI & Automation: Agentic Workflows (n8n, Make.com, Groq, Gemini API), OpenAI integrations, RPA (Automation Anywhere).
+
+Data & Analytics: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Business Intelligence.
+
+Foundational Strength: Backed by intensive hands-on training at NxtWave CCBP 4.0 Academy.
+
+Whether it’s streamlining operations with smart bots or building scalable web platforms, I’m always eager to collaborate on ambitious projects.
+
+📩 Let's Connect: Drop a message here or reach out at shubhamsingh9225@gmail.com
 
 
 ## 🌐 Socials:
