@@ -7,9 +7,9 @@ As a Full Stack Developer specializing in the MERN Stack, Python, and AI Automat
 
 What I Bring to the Table:
 
-Full-Stack Engineering: MERN Stack, Python, SQL, JavaScript, REST APIs, Supabase.
+Full-Stack Engineering: MERN Stack, Python, SQL, JavaScript, REST APIs.
 
-AI & Automation: Agentic Workflows (n8n, Make.com, Groq, Gemini API), OpenAI integrations, RPA (Automation Anywhere).
+AI & Automation: Agentic Workflows (n8n, Make.com, Groq, Gemini API), OpenAI integrations.
 
 Data & Analytics: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Business Intelligence.
 
